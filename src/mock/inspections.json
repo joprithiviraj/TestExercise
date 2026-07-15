@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "vesselName": "MV Cargo One",
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "vesselName": "MV Cargo Two",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "vesselName": "Ocean Explorer",
+    "status": "Pending"
+  }
+]
